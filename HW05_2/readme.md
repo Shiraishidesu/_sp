@@ -1,6 +1,7 @@
 ### 作業五
 
 C程式碼使用老師作業中的 mul3test.c。
+
 1、用 gcc 產生組合語言.s (參數 -S)
 ```
  gcc -S mul3test.c -o mul3test.s
